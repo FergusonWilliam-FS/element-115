@@ -1,14 +1,62 @@
-@import url("https://fonts.googleapis.com/css2?family=Goldman");
+@import url("https://fonts.googleapis.com/css2?family=Goldman&family=Lato&family=Roboto+Slab&family=Big+Shoulders+Display");
+
+
+body {
+	background: url("../images/atom.png") no-repeat top right, linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(11, 147, 238, 0.808) 85%);
+}
 
 header {
-	padding: 250px;
+	padding: 400px;
   	text-align: center;
-  	background: #0268dd;
+  	background: #0268dd8c;
   	color: white;
-  	font-size: 30px;
+  	font-size: 40px;
 }
 
 h1 {
 	font-family: Goldman;
+	text-shadow: 2px 2px black;
 }
+
+h2 {
+	font-family: "Lato";
+	text-align: center;
+	font-size: 36px;
+}
+
+p {
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    margin: 0px;
+    font-family: "Roboto Slab";
+}
+
+h3, footer {
+	font-family: "Big Shoulders Display";
+	font-size: 24px;
+	text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+}
+
+
+article {
+	padding: 4em;
+	float: left;
+	margin: 3em;
+}
+
+aside {
+	padding: 25px;
+  	text-align: center;
+  	font-size: 1.5em;
+}
+
+
+
+
 
