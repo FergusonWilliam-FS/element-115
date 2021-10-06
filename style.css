@@ -2,7 +2,7 @@
 
 
 body {
-	background: url("../images/atom.png") no-repeat top right, linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(11, 147, 238, 0.808) 85%);
+	background: url("images/atom.png") no-repeat top right, linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(11, 147, 238, 0.808) 85%);
 }
 
 header {
