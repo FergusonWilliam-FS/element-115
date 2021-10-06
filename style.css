@@ -52,8 +52,9 @@ article {
 
 aside {
 	padding: 25px;
-  	text-align: center;
+ 	text-align: center;
   	font-size: 1.5em;
+	margin: 0px;
 }
 
 
